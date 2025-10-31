@@ -1,0 +1,5 @@
+Order_ID,Arrival_Time,Preparation_Time,Delivery_Distance,Delivery_Time,Kitchen_Staff_Available,Delivary_Riders_Available
+001,0,12,2.5,15,3,2
+002,2,10,1.8,12,3,2
+003,3,14,3.0,18,3,2
+004,4,8,1.0,9,3,2
